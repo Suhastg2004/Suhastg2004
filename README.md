@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhastg2004&label=Profile%20views&color=0e75b6&style=flat" alt="suhastg2004" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suhastg2004" alt="suhastg2004" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/suhastg5" target="blank"><img src="https://img.shields.io/twitter/follow/suhastg5?logo=twitter&style=for-the-badge" alt="suhastg5" /></a> </p>
 
 - 🔭 I’m currently working on **A Blog generation system using LLMs integrated with Wikipedia and Google search.**
